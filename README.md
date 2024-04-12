@@ -1,2 +1,2 @@
-# gunwoo94.github.io
-내웹사이트
+# Pension
+개발 3팀 펜션사이트 제작 프로젝트입니다.
